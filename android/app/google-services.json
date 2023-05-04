@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "374151873688",
+
+    "project_id": "tibu-project",
+    "storage_bucket": "tibu-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374151873688:android:0ae705a4d4b601aae07ced",
+
+
+        "android_client_info": {
+          "package_name": "com.TIBU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374151873688-2kv6iclf0eh57d5505li8t39vjg2c6ak.apps.googleusercontent.com",
+
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-7cvtULc4YdpNQUZXIFbR1EinEY1t-k"
+
+
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374151873688-2kv6iclf0eh57d5505li8t39vjg2c6ak.apps.googleusercontent.com",
+
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
